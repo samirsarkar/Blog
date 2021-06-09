@@ -1,6 +1,6 @@
 autopep8==1.5.2
 certifi==2019.11.28
-Django==2.2.5
+Django==2.2.22
 django-crispy-forms==1.8.1
 olefile==0.46
 Pillow==7.0.0
